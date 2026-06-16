@@ -1,0 +1,51 @@
+﻿ProductID,ProductName,Category,Price
+P001,Casual Shirt,Men's Wear,899
+P002,Formal Shirt,Men's Wear,1199
+P003,Polo T-Shirt,Men's Wear,799
+P004,Round Neck T-Shirt,Men's Wear,599
+P005,Slim Fit Jeans,Men's Wear,1499
+P006,Regular Fit Jeans,Men's Wear,1399
+P007,Hoodie,Men's Wear,1699
+P008,Jacket,Men's Wear,2499
+P009,Track Pant,Men's Wear,899
+P010,Kurta,Men's Wear,1299
+P011,Kurti,Women's Wear,999
+P012,Printed Kurti,Women's Wear,1199
+P013,Saree,Women's Wear,1999
+P014,Silk Saree,Women's Wear,2999
+P015,Western Dress,Women's Wear,1799
+P016,Party Wear Dress,Women's Wear,2499
+P017,Crop Top,Women's Wear,799
+P018,Leggings,Women's Wear,599
+P019,Palazzo,Women's Wear,899
+P020,Women's Jacket,Women's Wear,1899
+P021,Kids T-Shirt,Kids Wear,499
+P022,Kids Jeans,Kids Wear,799
+P023,Kids Dress,Kids Wear,899
+P024,Kids Hoodie,Kids Wear,999
+P025,School Uniform,Kids Wear,1199
+P026,Kids Shorts,Kids Wear,399
+P027,Kids Track Pant,Kids Wear,599
+P028,Kids Jacket,Kids Wear,1299
+P029,Kids Kurta,Kids Wear,899
+P030,Kids Frock,Kids Wear,999
+P031,Denim Shirt,Men's Wear,1299
+P032,Checked Shirt,Men's Wear,999
+P033,Sweatshirt,Men's Wear,1399
+P034,Cargo Pant,Men's Wear,1499
+P035,Blazer,Men's Wear,3499
+P036,Anarkali Dress,Women's Wear,2299
+P037,Long Skirt,Women's Wear,1199
+P038,Women's Hoodie,Women's Wear,1499
+P039,Women's Sweatshirt,Women's Wear,1299
+P040,Designer Saree,Women's Wear,3999
+P041,Baby Romper,Kids Wear,699
+P042,Kids Night Suit,Kids Wear,799
+P043,Kids Sweater,Kids Wear,999
+P044,Kids Party Dress,Kids Wear,1499
+P045,Kids Winter Jacket,Kids Wear,1699
+P046,Men's Shorts,Men's Wear,699
+P047,Women's Top,Women's Wear,899
+P048,Women's Jeans,Women's Wear,1499
+P049,Kids Casual Shirt,Kids Wear,599
+P050,Men's Sports T-Shirt,Men's Wear,899
